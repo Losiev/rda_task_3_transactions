@@ -1,4 +1,3 @@
-DROP DATABASE ShopDB;
 USE ShopDB;
 
 INSERT INTO Orders (CustomerID, Date)
